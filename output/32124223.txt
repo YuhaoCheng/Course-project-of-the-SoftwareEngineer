@@ -1,0 +1,6 @@
+ticket ID: 32124223
+Type: Child
+Movie: KONG: SKULL ISLAND
+Date: 20:00
+Screen: Screen2
+Row: C Number: 3

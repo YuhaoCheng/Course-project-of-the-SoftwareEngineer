@@ -1,0 +1,6 @@
+ticket ID: 24113313
+Type: Child
+Movie: KONG: SKULL ISLAND
+Date: 20:00
+Screen: Screen2
+Row: C Number: 5
